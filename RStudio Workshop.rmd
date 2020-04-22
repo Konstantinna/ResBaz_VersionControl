@@ -1,0 +1,13 @@
+###### Save as .rmd rather than .md to make sure it is in RMarkdown
+
+
+---
+
+title: "Maniscript test"
+author: "Konstantina Vasileva"
+output: pdf_document
+
+---
+
+
+The quick brow jumped over the lazy brown dog.
