@@ -1,2 +1,2 @@
-# ResBaz_VersionControl
-#ResBazWelli workshop on Version Control
+# VUW Workshop | Virtual Lab
+RMarkdown, Zotero, Pandoc & other fun
